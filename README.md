@@ -25,7 +25,7 @@ The **Astronaut Health Monitor** is a Python-based application designed to help 
 
 To run the Astronaut Health Monitor, ensure you have Python 3.x installed on your system. Clone this repository and run the script as follows:
 
-```python
+```bash
 git clone https://github.com/yourusername/astronaut-health-monitor.git
 cd astronaut-health-monitor
 python astronaut_health_monitor.py
