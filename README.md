@@ -55,9 +55,11 @@ astronaut.sync_with_lighting(datetime.now())
 astronaut.track_sleep(hours_slept=6)
 astronaut.telemedicine_consultation(issue="Low immune function")
 astronaut.reset_medicine()
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
 ```
 
-### Acknowledgments
+## Acknowledgments
 Special thanks to NASA for their ongoing research and support in astronaut health and well-being in space.
+
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
