@@ -25,7 +25,7 @@ The **Astronaut Health Monitor** is a Python-based application designed to help 
 
 To run the Astronaut Health Monitor, ensure you have Python 3.x installed on your system. Clone this repository and run the script as follows:
 
-```bash
+```python
 git clone https://github.com/yourusername/astronaut-health-monitor.git
 cd astronaut-health-monitor
 python astronaut_health_monitor.py
@@ -45,7 +45,7 @@ The application provides a simulation of astronaut health monitoring. Key functi
 ## Example
 An example of usage is provided in the script, where a fictional astronaut named Commander Shepard undergoes daily routines such as exercise, medication intake, vital monitoring, and telemedicine consultations.
 
-```
+```python
 # Example usage
 astronaut = AstronautHealthMonitor(astronaut_name="Commander Shepard")
 astronaut.perform_exercise()
